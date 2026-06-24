@@ -9,8 +9,8 @@
 | 文件 | 说明 | 大小 |
 |------|------|------|
 | `autoclaw-ppt-demo.mp4` | AutoClaw PPT 演示（已压缩长停留画面）| 14 MB |
-| `zmate-console-demo.mp4` | ZMate Console 演示 | 21 MB |
-| `zmate-workspace-demo.mp4` | ZMate Workspace 演示（截取前 7 分 36 秒）| 23 MB |
+| `zmate-console-demo.mp4` | ZMate Console 演示 | 12 MB |
+| `zmate-workspace-demo.mp4` | ZMate Workspace 演示（截取前 7 分 36 秒）| 10 MB |
 
 ### 功能模块演示
 
